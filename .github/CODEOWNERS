@@ -1,0 +1,12 @@
+# Code Owners
+# This file defines ownership of the codebase
+
+* @jdhruv555
+
+# Sensitive files
+/.env* @jdhruv555
+/backend/.env* @jdhruv555
+/frontend/.env* @jdhruv555
+/*credentials* @jdhruv555
+/*service-account* @jdhruv555
+
