@@ -1,0 +1,5 @@
+# Protect sensitive files
+*.env linguist-vendored
+*.key linguist-vendored
+*credentials* linguist-vendored
+*service-account* linguist-vendored
